@@ -1,0 +1,11 @@
+Risk,Debt,Income,Married?,Owns_Property,Gender
+low,low,low,no,no,male
+low,high,high,yes,yes,male
+low,low,high,yes,no,female
+high,medium,low,no,no,male
+high,high,low,yes,no,female
+high,low,low,yes,no,male
+low,low,medium,no,yes,male
+low,high,medium,yes,yes,male
+low,medium,low,no,no,female
+high,low,medium,yes,yes,female
